@@ -1,0 +1,161 @@
+﻿  Animations.cpp
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Animations.cpp(15,64): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [39]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Animations.cpp(15,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Animations.cpp(62,60): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [41]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Animations.cpp(62,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Animations.cpp(92,64): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [45]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Animations.cpp(92,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+  Board.cpp
+  EndGame.cpp
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\EndGame.cpp(82,56): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [34]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\EndGame.cpp(82,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\EndGame.cpp(204,59): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [31]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\EndGame.cpp(204,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\EndGame.cpp(220,78): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [49]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\EndGame.cpp(220,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\EndGame.cpp(267,69): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [40]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\EndGame.cpp(267,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\EndGame.cpp(298,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\EndGame.cpp(309,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\EndGame.cpp(367,57): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [28]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\EndGame.cpp(367,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+  EndPointItem.cpp
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\EndPointItem.cpp(52,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Grid.cpp
+  IntroScene.cpp
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\IntroScene.cpp(68,56): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [34]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\IntroScene.cpp(68,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\IntroScene.cpp(155,59): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [31]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\IntroScene.cpp(155,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\IntroScene.cpp(170,78): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [49]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\IntroScene.cpp(170,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\IntroScene.cpp(217,69): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [40]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\IntroScene.cpp(217,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\IntroScene.cpp(255,57): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [28]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\IntroScene.cpp(255,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+  Item.cpp
+  Game.cpp
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(97,51): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [36]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(97,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(106,45): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [30]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(106,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(145,49): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [34]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(145,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(149,65): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [51]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(149,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(166,47): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [30]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(166,14): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(333,75): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [33]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(333,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(360,61): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [37]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(360,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(389,84): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [60]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(389,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(396,54): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [30]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Game.cpp(396,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+  main.cpp
+  MiniMario.cpp
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\MiniMario.cpp(102,31): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [8]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\MiniMario.cpp(102,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\MiniMario.cpp(103,31): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [8]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\MiniMario.cpp(103,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+  MoveBar.cpp
+  PlayScence.cpp
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(109,56): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [34]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(109,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(207,58): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [42]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(207,13): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(213,46): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [31]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(213,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(270,78): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [49]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(270,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(317,69): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [40]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(317,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(324,34): error C2664: 'void Grid::SetFile(char *)': cannot convert argument 1 from 'const char [16]' to 'char *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(324,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Grid.h(38,7): message : see declaration of 'Grid::SetFile'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(326,34): error C2664: 'void Grid::SetFile(char *)': cannot convert argument 1 from 'const char [16]' to 'char *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(326,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Grid.h(38,7): message : see declaration of 'Grid::SetFile'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(668,57): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [28]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(668,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(863,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\PlayScence.cpp(874,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Portal.cpp
+  Object.cpp
+  Sprites.cpp
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Sprites.cpp(34,86): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [42]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Sprites.cpp(34,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+  Textures.cpp
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Textures.cpp(29,66): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [41]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Textures.cpp(29,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Textures.cpp(60,65): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [37]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Textures.cpp(60,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+  UpsideBrick.cpp
+  WorldMapScene.cpp
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(83,56): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [34]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(83,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(170,58): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [42]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(170,13): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(175,46): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [31]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(175,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(176,50): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [22]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(176,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(177,33): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [15]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(177,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(178,33): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [15]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(178,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(214,59): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [31]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(214,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(230,78): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [49]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(230,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(277,69): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [40]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(277,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(320,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(331,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(399,57): error C2664: 'void DebugOut(wchar_t *,...)': cannot convert argument 1 from 'const wchar_t [28]' to 'wchar_t *'
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\WorldMapScene.cpp(399,11): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\DELL\OneDrive\Documents\SE102\FirstSample\FirstSample\Utils.h(16,6): message : see declaration of 'DebugOut'
+  Generating Code...
